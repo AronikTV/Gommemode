@@ -6,5 +6,5 @@ main: de.AronikTV.gommemode.GommeMode
 commands:
   gommemode:
     aliases: [gm]
-    description: The pixelmode-command.
+    description: Der gommemode-command.
     usage: /<command> <arguments>
