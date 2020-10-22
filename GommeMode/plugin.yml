@@ -1,0 +1,10 @@
+name: GommeMode
+version: 2.0
+author: AronikTV
+main: de.AronikTV.gommemode.GommeMode
+
+commands:
+  gommemode:
+    aliases: [gm]
+    description: The pixelmode-command.
+    usage: /<command> <arguments>
