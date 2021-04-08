@@ -1,4 +1,4 @@
-# GommeMode
+# Mibb3l PLugin Lizenz
 # Bitte gebe das Plugin nicht als deins aus
 #
 # Das umschreiben ist verboten!
